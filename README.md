@@ -1,4 +1,4 @@
-# ascii-terminal-screensaver
+# Terminal Screen Saver
 
 A multi-effect ASCII screensaver for the macOS terminal, written in pure
 Python (stdlib only, no dependencies).
